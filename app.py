@@ -20,9 +20,9 @@ AUTH_PAYLOAD = {
     "companyName": "goMart",
     "clientID": CLIENT_ID,
     "clientSecret": CLIENT_SECRET,
-    "ownerName": "Poornachandratejashwi",
-    "ownerEmail": "nihalhanumanthaiah@gmail.com",
-    "rollNo": "R21EK027"
+    "ownerName": "Ranjan GR",
+    "ownerEmail": "Ranjanmalode2001@gmail.com",
+    "rollNo": "R22EJ810"
 }
 
 # Store numbers in a deque to maintain window size
